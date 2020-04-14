@@ -21,7 +21,8 @@ open the Terminal
 
 ## Windows:
 Open Command Prompt as Administrator
-- cd "C:\Program Files\Blender Foundation\Blender 2.81\2.81\python\bin"
+- cd "C:\Program Files\Blender Foundation\Blender 2.82\2.82\python\bin"
+- c:
 - python -m pip install --upgrade pip
 - python -m pip install opencv-contrib-python numpy
 
